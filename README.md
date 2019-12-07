@@ -41,6 +41,6 @@ Windows Registry Editor Version 5.00
 
 ### 参考
 
-- [[分享\] windows10小鹤双拼注册表（内置输入法的自定义）](https://bbs.flypy.com/forum.php?mod=viewthread&tid=166&extra=&page=1)
-- [[教程\] win10快速添加小鹤双拼方案](https://flypy.com/bbs/forum.php?mod=forumdisplay&fid=2&filter=typeid&typeid=2) 
+- [windows10小鹤双拼注册表（内置输入法的自定义）](https://bbs.flypy.com/forum.php?mod=viewthread&tid=166&extra=&page=1)
+- [win10快速添加小鹤双拼方案](https://flypy.com/bbs/forum.php?mod=forumdisplay&fid=2&filter=typeid&typeid=2) 
 - [Win10 微软拼音添加小鹤双拼以及其他配置](https://ifttl.com/add-flypy-to-win10-microsoft-pinyin-and-other-configuration/)
