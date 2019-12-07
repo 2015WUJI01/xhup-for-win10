@@ -1,6 +1,6 @@
 ## 在 Win10 系统自带输入法上快速设置小鹤双拼方案
 
-<img src="img/示例.gif" style="text-align=center;">
+<div align=center><img src="img/示例.gif" alt="示例"></div>
 
 
 ### 说明
@@ -9,7 +9,7 @@ Win10 系统默认输入法可以选择双拼，默认只包含 **微软双拼**
 
 当然，可以手动添加 **小鹤双拼** 方案，为了避免浪费大量时间在影射键位上，收集了大佬们提供的修改注册表的方式，可以快速设置。
 
-<img src="img/双拼方案.png" style="text-align=center;">
+<div align=center><img src="img/双拼方案.png" alt="双拼方案"></div>
 
 
 ### 使用
